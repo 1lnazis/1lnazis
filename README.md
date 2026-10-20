@@ -1,4 +1,4 @@
-# Hi! I'm 1lnazis 👋
+# Hi! I'm 1lnaz 👋
 
 🎯 **Golang Developer | 2+ years in fintech**  
 🌐 Building backend services for payments and money transfers with **Go, PostgreSQL, and Kafka**.
